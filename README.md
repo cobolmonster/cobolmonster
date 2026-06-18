@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,4,6&text=COBOL%20MONSTER%20%F0%9F%98%88&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2d2d2d,100:888888&text=COBOL%20MONSTER%20%F0%9F%98%88&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <em>Professional COBOL developer & full-stack engineer</em>
