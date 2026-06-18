@@ -23,28 +23,34 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=fortran" height="28"> Fortran &nbsp;
-<img src="https://skillicons.dev/icons?i=solidity" height="28"> Solidity &nbsp;
-<img src="https://skillicons.dev/icons?i=clojure" height="28"> Clojure &nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin" height="28"> Kotlin &nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="28"> HTML &nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="28"> JavaScript &nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="28"> CSS &nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="28"> Python
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=fortran" height="28"> | Fortran |
+| <img src="https://skillicons.dev/icons?i=solidity" height="28"> | Solidity |
+| <img src="https://skillicons.dev/icons?i=clojure" height="28"> | Clojure |
+| <img src="https://skillicons.dev/icons?i=kotlin" height="28"> | Kotlin |
+| <img src="https://skillicons.dev/icons?i=html" height="28"> | HTML |
+| <img src="https://skillicons.dev/icons?i=javascript" height="28"> | JavaScript |
+| <img src="https://skillicons.dev/icons?i=css" height="28"> | CSS |
+| <img src="https://skillicons.dev/icons?i=python" height="28"> | Python |
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=ktor" height="28"> Ktor &nbsp;
-<img src="https://skillicons.dev/icons?i=adonis" height="28"> AdonisJS &nbsp;
-<img src="https://skillicons.dev/icons?i=haxeflixel" height="28"> HaxeFlixel &nbsp;
-<img src="https://skillicons.dev/icons?i=bevy" height="28"> Bevy
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=ktor" height="28"> | Ktor |
+| <img src="https://skillicons.dev/icons?i=adonis" height="28"> | AdonisJS |
+| <img src="https://skillicons.dev/icons?i=haxeflixel" height="28"> | HaxeFlixel |
+| <img src="https://skillicons.dev/icons?i=bevy" height="28"> | Bevy |
 
 **Tools & Infra**
 
-<img src="https://skillicons.dev/icons?i=emacs" height="28"> Emacs &nbsp;
-<img src="https://skillicons.dev/icons?i=bsd" height="28"> BSD &nbsp;
-<img src="https://skillicons.dev/icons?i=cassandra" height="28"> Cassandra &nbsp;
-<img src="https://skillicons.dev/icons?i=dynamodb" height="28"> DynamoDB
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=emacs" height="28"> | Emacs |
+| <img src="https://skillicons.dev/icons?i=bsd" height="28"> | BSD |
+| <img src="https://skillicons.dev/icons?i=cassandra" height="28"> | Cassandra |
+| <img src="https://skillicons.dev/icons?i=dynamodb" height="28"> | DynamoDB |
 
 ---
 
