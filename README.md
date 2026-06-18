@@ -59,7 +59,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cobolmonster&theme=dark&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" width="55%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cobolmonster&theme=onestar&row=1&no-bg=true&no-frame=true" alt="trophy" />
-</p>
