@@ -1,65 +1,51 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Aperçu GitHub README</title>
 <style>
-  body {
-    background: #0d1117;
-    margin: 0;
-    padding: 40px 16px;
-    display: flex;
-    justify-content: center;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  }
-  .container {
-    max-width: 880px;
-    width: 100%;
-    background: #0d1117;
-    color: #c9d1d9;
-    padding: 32px;
-    border: 1px solid #30363d;
-    border-radius: 6px;
-  }
-  .note {
-    color: #8b949e;
-    font-size: 12px;
-    text-align: center;
-    margin-bottom: 24px;
-    border-bottom: 1px solid #21262d;
-    padding-bottom: 16px;
-  }
-  h1, h3, h4 {
-    color: #e6edf3;
-    font-weight: 600;
-    margin-top: 0;
-  }
-  h1 { font-size: 28px; }
-  h3 { font-size: 20px; border-bottom: 1px solid #21262d; padding-bottom: 8px; margin-top: 32px; }
-  h4 { font-size: 16px; margin-bottom: 8px; }
-  p { line-height: 1.6; }
-  hr { border: none; border-top: 1px solid #21262d; margin: 24px 0; }
-  a { color: #58a6ff; text-decoration: none; }
-  blockquote {
-    border-left: 3px solid #3b434b;
-    color: #8b949e;
-    margin: 16px 0;
-    padding: 0 16px;
-  }
-  ul { line-height: 1.8; }
-  .center { text-align: center; }
-  .stack-row { margin: 16px 0; }
-  .stats-row {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
-  }
-  .stats-row img { max-width: 48%; height: auto; }
+.gh-preview {
+  background: #0d1117;
+  color: #c9d1d9;
+  padding: 32px;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  max-width: 880px;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.gh-preview .note {
+  color: #8b949e;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #21262d;
+  padding-bottom: 16px;
+}
+.gh-preview h1, .gh-preview h3, .gh-preview h4 {
+  color: #e6edf3;
+  font-weight: 600;
+  margin-top: 0;
+}
+.gh-preview h1 { font-size: 28px; }
+.gh-preview h3 { font-size: 20px; border-bottom: 1px solid #21262d; padding-bottom: 8px; margin-top: 32px; }
+.gh-preview h4 { font-size: 16px; margin-bottom: 8px; }
+.gh-preview p { line-height: 1.6; }
+.gh-preview hr { border: none; border-top: 1px solid #21262d; margin: 24px 0; }
+.gh-preview blockquote {
+  border-left: 3px solid #3b434b;
+  color: #8b949e;
+  margin: 16px 0;
+  padding: 0 16px;
+}
+.gh-preview ul { line-height: 1.8; }
+.gh-preview .center { text-align: center; }
+.gh-preview .stack-row { margin: 16px 0; }
+.gh-preview .stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.gh-preview .stats-row img { max-width: 48%; height: auto; }
 </style>
-</head>
-<body>
-<div class="container">
+
+<div class="gh-preview">
 
   <div class="note">Aperçu — imite le rendu réel de github.com en thème sombre, images chargées en direct</div>
 
@@ -109,5 +95,3 @@
   </div>
 
 </div>
-</body>
-</html>
