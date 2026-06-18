@@ -1,59 +1,65 @@
-<h1 align="center">COBOL MONSTER 😈😈😈</h1>
+<h1 align="center">COBOL MONSTER 😈</h1>
 
 <p align="center">
   <em>Professional COBOL developer & full-stack engineer</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=380&lines=COBOL;😈;FROPPE" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=380&lines=COBOL+Developer;Full-Stack+Engineer;Cybersecurity+Enthusiast" alt="typing animation" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=cobolmonster&color=blue&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 - Full-stack web development
 - Offensive & defensive cybersecurity
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fortran,solidity,clojure,kotlin,html,javascript,css,python" height="45" alt="languages" />
-</p>
+| | Language |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=fortran" height="28"> | Fortran |
+| <img src="https://skillicons.dev/icons?i=solidity" height="28"> | Solidity |
+| <img src="https://skillicons.dev/icons?i=clojure" height="28"> | Clojure |
+| <img src="https://skillicons.dev/icons?i=kotlin" height="28"> | Kotlin |
+| <img src="https://skillicons.dev/icons?i=html" height="28"> | HTML |
+| <img src="https://skillicons.dev/icons?i=javascript" height="28"> | JavaScript |
+| <img src="https://skillicons.dev/icons?i=css" height="28"> | CSS |
+| <img src="https://skillicons.dev/icons?i=python" height="28"> | Python |
 
 **Frameworks & Libraries**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ktor,adonis,haxeflixel,bevy" height="45" alt="frameworks" />
-</p>
+| | Framework |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=ktor" height="28"> | Ktor |
+| <img src="https://skillicons.dev/icons?i=adonis" height="28"> | AdonisJS |
+| <img src="https://skillicons.dev/icons?i=haxeflixel" height="28"> | HaxeFlixel |
+| <img src="https://skillicons.dev/icons?i=bevy" height="28"> | Bevy |
 
 **Tools & Infra**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=emacs,bsd,cassandra,dynamodb" height="45" alt="tools" />
-</p>
-
-> Full icon list available at: [skillicons.dev](https://skillicons.dev)
+| | Tool |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=emacs" height="28"> | Emacs |
+| <img src="https://skillicons.dev/icons?i=bsd" height="28"> | BSD |
+| <img src="https://skillicons.dev/icons?i=cassandra" height="28"> | Cassandra |
+| <img src="https://skillicons.dev/icons?i=dynamodb" height="28"> | DynamoDB |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cobolmonster&show_icons=true&theme=radical&hide_border=true" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobolmonster&layout=compact&theme=radical&hide_border=true" alt="top langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cobolmonster&theme=dark&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cobolmonster&theme=radical&hide_border=true" width="60%" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cobolmonster&theme=radical&row=1&no-bg=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cobolmonster&theme=onestar&row=1&no-bg=true&no-frame=true" alt="trophy" />
 </p>
