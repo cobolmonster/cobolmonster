@@ -26,8 +26,6 @@
 **Tools & Infra**
 ![Skills](https://skillicons.dev/icons?i=emacs,bsd,cassandra,dynamodb)
 
-> Full icon list available at: https://skillicons.dev
-
 ---
 
 ### GitHub Stats
