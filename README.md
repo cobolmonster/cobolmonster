@@ -1,4 +1,4 @@
-<h1 align="center">COBOL MONSTER 😈</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,4,6&text=COBOL%20MONSTER%20%F0%9F%98%88&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <em>Professional COBOL developer & full-stack engineer</em>
@@ -58,4 +58,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cobolmonster&theme=dark&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cobolmonster&theme=onestar&row=1&no-bg=true&no-frame=true" alt="trophy" />
 </p>
