@@ -33,6 +33,7 @@
 | <img src="https://skillicons.dev/icons?i=javascript" height="28"> | JavaScript |
 | <img src="https://skillicons.dev/icons?i=css" height="28"> | CSS |
 | <img src="https://skillicons.dev/icons?i=python" height="28"> | Python |
+| <img src="https://skillicons.dev/icons?i=pony" height="28"> | Pony |
 
 **Frameworks & Libraries**
 
